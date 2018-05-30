@@ -12,3 +12,4 @@ model_name - your model name(ex:accounts.country)
 
 (ex: python csvtojson_fixture.py country.csv accounts.country)
 
+# country-state-city-fixture-file
